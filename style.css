@@ -2,3 +2,7 @@
 Theme Name: newTemplate
 Author: Leandro Chaves
 */
+
+body{
+    background-color: tomato;
+}
